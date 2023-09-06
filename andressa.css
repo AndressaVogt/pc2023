@@ -1,16 +1,29 @@
 h1 { text-align: center;
-background-color: chocolate;}
+    background-color: chocolate;}
 
-h2 { text-align: center;
-background-color: orange;}
+    
+    h2 { text-align: center;
+    background-color: orange;}
 
-h3 { text-align: center;
-background-color: rgb(224, 176, 52);}
+    
+    h3 { text-align: center;
+    background-color: rgb(224, 176, 52);}
 
-.cacau { background-color: burlywood ;}
+    
+    .cacau { background-color: burlywood ;}
 
-.coelho { background-color: burlywood;}
+    
+    .coelho { background-color: burlywood;}
 
-.pipoca { background-color: burlywood;}
+    
+    .pipoca { background-color: burlywood;}
 
-.bolos {  70 px}
+    
+    .bolo
+     {  width: 360 px}
+     
+
+     .lista {  display: inline-block
+               padding: 10%
+               margin-right: 20%;
+            }

@@ -1,29 +1,23 @@
-h1 { text-align: center;
-    background-color: chocolate;}
+h1 { text-align: center;}
 
+h2{ text-align: center;}
+
+h3 { text-align: center;}
+
+p { text-align: center;
+    font-size: x-large;}
+
+    .imagemcentralizada { text-align: center;}
     
-    h2 { text-align: center;
-    background-color: orange;}
+    .origem { background-color: rgb(165, 11, 11);}
+    .termos { background-color: rgb(150, 13, 13);}
+    .decada { background-color: rgb(141, 11, 11);}
 
-    
-    h3 { text-align: center;
-    background-color: rgb(224, 176, 52);}
-
-    
-    .cacau { background-color: burlywood ;}
-
-    
-    .coelho { background-color: burlywood;}
-
-    
-    .pipoca { background-color: burlywood;}
-
-    
-    .bolo
-     {  width: 360 px}
-     
-
-     .lista {  display: inline-block
-               padding: 10%
-               margin-right: 20%;
-            }
+    .cinco { background-color: firebrick;}
+    .seis { background-color: firebrick;}
+    .sete { background-color: firebrick;}
+    .oito { background-color: firebrick;}
+    .nove { background-color: firebrick;}
+    .zero { background-color: firebrick;}
+    .hoje { background-color: firebrick;}
+          

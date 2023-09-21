@@ -5,18 +5,33 @@ h2{ text-align: center;}
 h3 { text-align: center;}
 
 p { text-align: center;
-    font-size: large;}
+    font-size: x-large;}
 
     .imagemcentralizada { text-align: center;}
     
-    .origem { background-color: rgb(255, 88, 88);}
-    .termos { background-color: rgb(241, 71, 71);}
-    .decada { background-color: rgb(248, 86, 86);}
+    .origem { color: rgb(255, 0, 0);}
+    .termos { color: rgb(241, 71, 71);}
+    .decada { color: rgb(248, 86, 86);}
 
-    .cinco { background-color: rgb(235, 87, 87);}
-    .seis { background-color: rgb(238, 81, 81);}
-    .sete { background-color: rgb(228, 75, 75);}
-    .oito { background-color: rgb(228, 80, 80);}
-    .nove { background-color: rgb(235, 92, 92);}
-    .zero { background-color: rgb(245, 100, 100);}
-    .hoje { background-color: rgb(248, 94, 94);}
+    .cinco { color: rgb(235, 87, 87);
+     font-size: xx-large;}
+    .seis { color: rgb(238, 81, 81);
+    font-size: xx-large;}
+    .sete { color: rgb(228, 75, 75);
+    font-size: xx-large;}
+    .oito { color:  rgb(228, 80, 80);
+    font-size: xx-large;}
+    .nove { color: rgb(235, 92, 92);
+    font-size: xx-large;}
+    .zero { color: rgb(245, 100, 100);
+    font-size: xx-large;}
+    .hoje { color: rgb(248, 94, 94);
+    font-size: xx-large;}
+
+
+    nav a{
+        text-transform: uppercase;
+        color: rgb(139, 9, 0);
+        font-weight: 250;
+        font-size: 100%;
+    }

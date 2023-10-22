@@ -1,21 +1,22 @@
-li { text-align: center;
-    font-size: x-large;}
-    
+    h1 {text-align: center;
+    font-size: x-large; }
+
+    body { background-color: rgb(34, 34, 34)  ;}
+
+
     p{ text-align: center;
     font-size: x-large;}
-    
-    h1{ text-align: center;
-    font-size: x-large;}
-     
-    h2 { text-align: center;
-    font-size: x-large;}
-
-    h3 { text-align: center;
-    font-size: x-large;}
-
-    h4 { text-align: center;
-        font-size: x-large;}
-
-
+ 
+.pilotos { color: rgb(201, 8, 8);}    
+.red { color: navy;}
+.mer { color: rgb(49, 194, 158)}
+.fer { color: rgba(236, 0, 0, 0.938);}
+.ast { color: rgb(5, 119, 81);}
+.mc { color: rgb(255, 145, 0);}
+.alp { color: rgb(4, 109, 141);}
+.will { color: rgb(0, 152, 172);}
+.alf { color: firebrick; }
+.haa { color: darkgrey;}
+.alp { color: rgba(94, 145, 240, 0.527);}
 
   .imagemcentralizada { text-align: center;}    

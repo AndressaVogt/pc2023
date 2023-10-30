@@ -21,7 +21,7 @@
 
   .imagemcentralizada { text-align: center;}    
 
-nav a:hover {
+nav a: hover {
     color: blue;
     text-decoration: underline;
 }

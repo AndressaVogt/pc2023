@@ -22,6 +22,6 @@
   .imagemcentralizada { text-align: center;}    
 
 nav a:hover {
-    color: red;
+    color: blue;
     text-decoration: underline;
 }

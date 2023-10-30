@@ -36,6 +36,6 @@ p { text-align: center;
         font-size: 100%;
     }
 nav a: hover {
-    color: blue;
+    color: red;
     text-decoration: underline;
 }

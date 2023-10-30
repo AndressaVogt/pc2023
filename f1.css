@@ -20,3 +20,8 @@
 .alp { color: rgba(94, 145, 240, 0.527);}
 
   .imagemcentralizada { text-align: center;}    
+
+nav a: hover {
+    color: red;
+    text-decoration: underline;
+}

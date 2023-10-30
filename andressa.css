@@ -35,3 +35,7 @@ p { text-align: center;
         font-weight: 250;
         font-size: 100%;
     }
+nav a: hover {
+    color: red;
+    text-decoration: underline;
+}
